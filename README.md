@@ -2,8 +2,6 @@
 
 # Internet Banking Concept With Java Spring Boot Microservices
 
-This source code was developed for Java based microservices tutorial series from [javatodev.com](https://javatodev.com).
-
 In this article series I’m going to explain using internet banking API concept with spring boot based microserices architecture. Initially I’ll develop the core API which will evolve as a full fledged REST API collection until deployments.
 
 ### Microservices Inside This Project
